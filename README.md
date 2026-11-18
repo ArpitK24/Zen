@@ -1,4 +1,4 @@
-# 🚀 Welcome to Z.ai Code Scaffold
+# 🚀 Welcome to Zen 
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies
 
